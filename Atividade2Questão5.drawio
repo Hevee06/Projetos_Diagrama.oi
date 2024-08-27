@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Página-1" id="3VARWT9A4zER-68xBU1h">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vTAsQjZCxQr3gf1tFixU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vTAsQjZCxQr3gf1tFixU-1" target="vTAsQjZCxQr3gf1tFixU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTAsQjZCxQr3gf1tFixU-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vTAsQjZCxQr3gf1tFixU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vTAsQjZCxQr3gf1tFixU-2" target="vTAsQjZCxQr3gf1tFixU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTAsQjZCxQr3gf1tFixU-2" value="DISTÂNCIA&lt;div&gt;COMBUSTÍVEL&lt;/div&gt;&lt;div&gt;CONSUMO&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vTAsQjZCxQr3gf1tFixU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vTAsQjZCxQr3gf1tFixU-4" target="vTAsQjZCxQr3gf1tFixU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTAsQjZCxQr3gf1tFixU-4" value="Ler DISTÂNCIA e&lt;div&gt;COMBUSTIVEL&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="310" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vTAsQjZCxQr3gf1tFixU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vTAsQjZCxQr3gf1tFixU-6" target="vTAsQjZCxQr3gf1tFixU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTAsQjZCxQr3gf1tFixU-6" value="CONSUMO = DISTÂNCIA&amp;nbsp; / COMBUSTIVEL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vTAsQjZCxQr3gf1tFixU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vTAsQjZCxQr3gf1tFixU-8" target="vTAsQjZCxQr3gf1tFixU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTAsQjZCxQr3gf1tFixU-8" value="Escrever CONSUMO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="500" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vTAsQjZCxQr3gf1tFixU-10" value="FIM" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
