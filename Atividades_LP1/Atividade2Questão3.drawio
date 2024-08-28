@@ -4,37 +4,37 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8RWrVpnVAa181jw9w_el-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8RWrVpnVAa181jw9w_el-1" target="8RWrVpnVAa181jw9w_el-2">
+        <mxCell id="8RWrVpnVAa181jw9w_el-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8RWrVpnVAa181jw9w_el-1" target="8RWrVpnVAa181jw9w_el-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8RWrVpnVAa181jw9w_el-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8RWrVpnVAa181jw9w_el-1" value="INÍCIO" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8RWrVpnVAa181jw9w_el-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8RWrVpnVAa181jw9w_el-2" target="8RWrVpnVAa181jw9w_el-4">
+        <mxCell id="8RWrVpnVAa181jw9w_el-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8RWrVpnVAa181jw9w_el-2" target="8RWrVpnVAa181jw9w_el-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8RWrVpnVAa181jw9w_el-2" value="NUM" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="8RWrVpnVAa181jw9w_el-2" value="NUM" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="270" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8RWrVpnVAa181jw9w_el-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8RWrVpnVAa181jw9w_el-4" target="8RWrVpnVAa181jw9w_el-6">
+        <mxCell id="8RWrVpnVAa181jw9w_el-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8RWrVpnVAa181jw9w_el-4" target="8RWrVpnVAa181jw9w_el-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8RWrVpnVAa181jw9w_el-4" value="LER NUM" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="8RWrVpnVAa181jw9w_el-4" value="Ler NUM" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8RWrVpnVAa181jw9w_el-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8RWrVpnVAa181jw9w_el-6" target="8RWrVpnVAa181jw9w_el-8">
+        <mxCell id="8RWrVpnVAa181jw9w_el-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8RWrVpnVAa181jw9w_el-6" target="8RWrVpnVAa181jw9w_el-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8RWrVpnVAa181jw9w_el-6" value="NUM = NUM * 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8RWrVpnVAa181jw9w_el-6" value="NUM = NUM * 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8RWrVpnVAa181jw9w_el-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8RWrVpnVAa181jw9w_el-8" target="8RWrVpnVAa181jw9w_el-10">
+        <mxCell id="8RWrVpnVAa181jw9w_el-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8RWrVpnVAa181jw9w_el-8" target="8RWrVpnVAa181jw9w_el-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8RWrVpnVAa181jw9w_el-8" value="ESCREVER NUM" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="8RWrVpnVAa181jw9w_el-8" value="Exibir NUM" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="291" y="570" width="126" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8RWrVpnVAa181jw9w_el-10" value="FIM" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8RWrVpnVAa181jw9w_el-10" value="FIM" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="670" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
