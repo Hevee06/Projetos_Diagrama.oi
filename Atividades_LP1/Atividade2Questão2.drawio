@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Página-1" id="Op7FiMvRSfMlOBJ0hDqU">
-    <mxGraphModel dx="989" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vdks_2UEX-QShh6Ju7JQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f2oUN3H5Jz7DGEwyOzhw-1" target="vdks_2UEX-QShh6Ju7JQ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f2oUN3H5Jz7DGEwyOzhw-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Inicio&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="10" width="120" height="80" as="geometry" />
+        <mxCell id="f2oUN3H5Jz7DGEwyOzhw-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;INÍCIO&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f2oUN3H5Jz7DGEwyOzhw-2" value="Inserir NUMERO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="240" width="160" height="60" as="geometry" />
@@ -49,7 +49,7 @@
         <mxCell id="f2oUN3H5Jz7DGEwyOzhw-13" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="410" y="658" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f2oUN3H5Jz7DGEwyOzhw-18" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="f2oUN3H5Jz7DGEwyOzhw-18" value="FIM" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2oUN3H5Jz7DGEwyOzhw-20" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vdks_2UEX-QShh6Ju7JQ-1" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;N = 0&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;SOMA = 0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;NUMERO&lt;/span&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="230" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="230" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vdks_2UEX-QShh6Ju7JQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vdks_2UEX-QShh6Ju7JQ-5" target="f2oUN3H5Jz7DGEwyOzhw-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
